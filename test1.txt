@@ -1,10 +1,1 @@
- Volume in drive E has no label.
- Volume Serial Number is 0A5D-9F05
-
- Directory of E:\training-self\git_pr1
-
-26-03-2017  06:42    <DIR>          .
-26-03-2017  06:42    <DIR>          ..
-26-03-2017  06:43                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  170,696,310,784 bytes free
+updated for commit
